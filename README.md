@@ -33,7 +33,10 @@ Requirements:
 Recommended:
 * Intel HD driver hotkeys disabled, as they are the same as long jumps in VLC (Ctrl-Alt-Right/Left). This is the fastest way to navigate large files.
 
-AutoHotkey can be downloaded at: https://www.autohotkey.com/download/
-Portable version of MKVToolNix can be downloaded at: https://mkvtoolnix.download/downloads.html
-Portable nightly version of VLC can be downloaded at: https://nightlies.videolan.org/
-Portable version of cUrl can be downloaded at: https://curl.haxx.se/download.html
+AutoHotkey can be downloaded at: https://www.autohotkey.com/download/ 
+
+Portable version of MKVToolNix can be downloaded at: https://mkvtoolnix.download/downloads.html 
+
+Portable nightly version of VLC can be downloaded at: https://nightlies.videolan.org/ 
+
+Portable version of cUrl can be downloaded at: https://curl.haxx.se/download.html 
